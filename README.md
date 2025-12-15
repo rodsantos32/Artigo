@@ -27,3 +27,8 @@ Paralelamente, as internações por desnutrição no SUS apresentam tendência c
 A correlação de Pearson entre os dois indicadores é forte e negativa (r = -0,856), indicando que, enquanto a insegurança alimentar cresce, os registros clínicos de desnutrição caminham na direção oposta.
 
 ## GRÁFICOS
+
+## COMPROVANTE DE PUBLICAÇÃO
+
+(Comprovante_PUBLICAÇÃO.png)
+
