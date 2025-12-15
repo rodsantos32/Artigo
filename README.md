@@ -28,7 +28,22 @@ A correlação de Pearson entre os dois indicadores é forte e negativa (r = -0,
 
 ## GRÁFICOS
 
+A insegurança alimentar severa no Brasil sofreu aumento significativo nos triênios que possuem os anos da pandemia da covid-19, como mostra o gráfico abaixo.
+
+<img width="989" height="490" alt="gráfico 3" src="https://github.com/user-attachments/assets/6f8f411d-3524-40f1-b1d7-1502601f00f9" />
+
+Os dados do DATASUS de internações hospitalares por morbidades nutricionais vão em linha contrária aos dados reportados pelo FAO, conforme figura 3. É evidente uma linha de tendência decrescente para os mesmos anos onde a FAO reporta picos de insegurança alimentar severa. 
+
+<img width="1189" height="590" alt="gráfico 2" src="https://github.com/user-attachments/assets/76b53c76-1e84-4dfd-97ed-91a69a829dcb" />
+
+
+<img width="1189" height="589" alt="gráfico 1" src="https://github.com/user-attachments/assets/f07cac13-68e3-4418-a98b-b6740b7ffd45" />
+
+<img width="986" height="590" alt="correlação" src="https://github.com/user-attachments/assets/32587a5d-c3cd-4362-80f4-3a46a49dc556" />
+
+
 ## COMPROVANTE DE PUBLICAÇÃO
 
-(Comprovante_PUBLICAÇÃO.png)
+<img width="1118" height="794" alt="Comprovante_PUBLICAÇÃO" src="https://github.com/user-attachments/assets/2f1dcf3d-075c-4574-ac63-c1056e06fa93" />
+
 
